@@ -18,7 +18,7 @@
 
 ## 選手経費(Player Expenses)
 
-- [引越し費用](./player-expenses/transfer-fee.md)
+- [引越し費用](./player-expense/moving-expense.md)
 - [食事手当](./player-expense/meal-expence-allowance.md)
 
 ## 給付と福利厚生(benefit)
