@@ -26,3 +26,7 @@
 - [選手年金給付](./benefit/player-pension-benefit.md)
 - [選手 401k 給付](./benefit/player-401k-benefit.md)
 - [健康と福利厚生](./benefit/player-health-and-welfare-benefit.md)
+- [労使協力教育信託（LMCE 信託）](./benefit/labor-management-cooperation-n-education-trust.md)
+- [追加選手特典](./benefit/additional-player-benefit.md)
+- [カナダ移住者に関する給付、福利厚生](./benefit/canadian-resident.md)
+- [予想される収益](./benefit/projected-benefit.md)
